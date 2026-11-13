@@ -1,0 +1,9 @@
+www.open-meteo.com
+https://api.open-meteo.com/v1/forecast?latitutde=5.54545.&longtitude=12.& ...
+
+curl https://archive-api.open-meteo.com/v1/era5?latitude=52.52&longitude=13.41&start_date=2021-01-01&end_date=2021-12-31&hourly=temperature_2m
+
+
+last 10 days
+
+curl in the forecast format
